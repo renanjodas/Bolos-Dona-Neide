@@ -11,7 +11,7 @@ Atividade em aula HTML - Bolos Dona Neide
 
 ### Alguns Comandos Utilizados:
 
-* \<a href ""></a> - tag para inserção de link (externo ou local)  
+* \<a href "">\</a> - tag para inserção de link (externo ou local)  
  Ex.:
  ```html
   <h4>Links Úteis:</h4>
@@ -36,7 +36,7 @@ Atividade em aula HTML - Bolos Dona Neide
   </head>
  ```  
  ---
- * \<a href=""><img src="">\</a> - tag para inserir uma imagem com link  
+ * \<a href="">\<img src="">\</a> - tag para inserir uma imagem com link  
  Ex.:
  ```html
   <body>
@@ -44,7 +44,7 @@ Atividade em aula HTML - Bolos Dona Neide
   </body>
  ```  
  ---  
- * \<strong></strong> e <em></em> - tags para indicar palavras em destaque na página e para sites de pesquisa "negrito" e "itálico", respectivamente
+ * \<strong>\</strong> e \<em>\</em> - tags para indicar palavras em destaque na página e para sites de pesquisa "negrito" e "itálico", respectivamente
  ```html
  Ex.:
  <strong>Bolos</strong> <em>Dona Neide</em>
