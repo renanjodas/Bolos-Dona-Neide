@@ -36,7 +36,7 @@ Atividade em aula HTML - Bolos Dona Neide
   </head>
  ```  
  ---
- * \<a href=""><img src=""></a> - tag para inserir uma imagem com link  
+ * \<a href=""><img src="">\</a> - tag para inserir uma imagem com link  
  Ex.:
  ```html
   <body>
